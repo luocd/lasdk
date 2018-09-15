@@ -11,7 +11,7 @@
 					<key>kxm</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://yipe-image.oss-cn-hongkong.aliyuncs.com/kxm.ipa</string>
+					<string>https://yipe-image.oss-cn-hongkong.aliyuncs.com/kxm.ipa</string>
 				</dict>
 				<dict>
 					<key>kxm</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://yipe-image.oss-cn-hongkong.aliyuncs.com/kxm.png</string>
+					<string>https://yipe-image.oss-cn-hongkong.aliyuncs.com/kxm.png</string>
 				</dict>
 				<dict>
 					<key>kxm</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://yipe-image.oss-cn-hongkong.aliyuncs.com/kxm.png</string>
+					<string>https://yipe-image.oss-cn-hongkong.aliyuncs.com/kxm.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
